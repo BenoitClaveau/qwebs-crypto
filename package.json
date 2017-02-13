@@ -1,0 +1,36 @@
+{
+    "name": "qwebs-crypto",
+    "version": "0.1.63",
+    "description": "Authentication service using JSON Web Token for Qwebs server",
+    "main": "index.js",
+    "dependencies": {
+        "qwebs": "^0.1.63",
+        "jwt-simple": "latest"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BenoitClaveau/qwebs-crypto.git"
+    },
+    "keywords": [
+        "qwebs",
+        "form",
+        "validation",
+        "login",
+        "password",
+        "email",
+        "format"
+    ],
+    "author": {
+        "name": "Benoît Claveau",
+        "email": "benoit.claveau@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/BenoitClaveau/qwebs-crypto/issues"
+    },
+    "homepage": "https://github.com/BenoitClaveau/qwebs-crypto"
+}
