@@ -1,10 +1,10 @@
 {
     "name": "qwebs-crypto",
-    "version": "0.1.96",
+    "version": "0.2.15",
     "description": "Cryptographic service for Qwebs server",
     "main": "index.js",
     "dependencies": {
-        "qwebs": "^0.1.96"
+        "qwebs": "^0.2.15"
     },
     "devDependencies": {},
     "scripts": {
